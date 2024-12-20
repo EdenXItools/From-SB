@@ -1,0 +1,23 @@
+{
+    "DistancePosition": 1,
+    "IconPack": 2,
+    "Menu": {
+        "X": 1700,
+        "Y": 1080
+    },
+    "Offsets": {
+        "X": 155,
+        "Y": 40
+    },
+    "Scale": {
+        "X": 1.1294117647059,
+        "Y": 1
+    },
+    "ShowDistance": true,
+    "ShowOwnBuffs": true,
+    "Size": 20,
+    "Window": {
+        "X": 1920,
+        "Y": 1080
+    }
+}
